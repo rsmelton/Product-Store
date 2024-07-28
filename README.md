@@ -1,1 +1,1 @@
-# Product-Store
+I followed the tutorial at https://www.youtube.com/watch?v=Dukz-3mS3Us to practice and more understand the backend of the software development lifecycle.
